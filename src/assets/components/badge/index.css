@@ -7,7 +7,3 @@
 @each $color in var(--color-palette) {
   @mixin bb-badge-palette $(color);
 }
-
-@each $color in var(--color-alert) {
-  @mixin bb-badge-alert $(color);
-}
