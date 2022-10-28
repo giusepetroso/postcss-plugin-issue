@@ -1,5 +1,3 @@
-@import "mixins";
-
 .bb-badge {
   @apply inline-flex items-center text-base px-3 py-1 rounded-full border;
 }
